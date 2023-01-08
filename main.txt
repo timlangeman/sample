@@ -1,2 +1,3 @@
 In the beginning ..
 was the second line.
+and the third line.
